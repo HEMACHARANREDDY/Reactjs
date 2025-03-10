@@ -12,7 +12,7 @@ export default function Exp6(){
     if(result != "Nothing")
     return(
         <div>
-            Dr.A.Siva Krishna Reddy
+            axios
             <br/> <br/> 
             <table border={1}>
                 <tr>
